@@ -1,0 +1,1 @@
+Hash Table with Open Addressing: This exercise explores hash tables using open addressing methods (linear probing, quadratic probing, double hashing) for collision resolution, aiming to compare their performance.
